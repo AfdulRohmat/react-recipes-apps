@@ -4,7 +4,7 @@ const Veggie = () => {
   return (
     <>
       <div className="font-poppins">
-        <p1>Veggie</p1>
+        <p>Veggie</p>
       </div>
     </>
   );
